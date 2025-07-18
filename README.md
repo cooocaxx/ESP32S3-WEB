@@ -1,4 +1,4 @@
-在ESP32-S3 运行 Vue + Element Plus 示例
+在ESP32-S3 运行 Vue + Element Plus 示例 （部分功能未实现）
 
 ### 主页
 <img width="1358" height="969" alt="image" src="https://github.com/user-attachments/assets/9d17e5f9-8339-4bf6-b949-897f7a7a2942" />
