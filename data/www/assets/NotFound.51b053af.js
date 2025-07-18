@@ -1,0 +1,1 @@
+import{d as u,c as _,w as t,u as p,b as o,e as c,f as l,h as m}from"./index.c98ada05.js";const x=u({__name:"NotFound",setup(d){const n=p();function s(){n.push("/")}return(f,e)=>{const a=o("el-button"),r=o("el-empty");return c(),_(r,null,{default:t(()=>[l(a,{type:"primary",onClick:s},{default:t(()=>e[0]||(e[0]=[m("HOME")])),_:1,__:[0]})]),_:1})}}});export{x as default};

@@ -1,0 +1,10 @@
+{
+    "wifi-sta": {
+        "ssid": "CMCC-n7Jq",
+        "password": "4546hhh4"
+    },
+    "wifi-ap": {
+    "ssid": "ESP32-AP",
+    "password": "12345678"
+    }
+}
